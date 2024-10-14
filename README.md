@@ -1,6 +1,6 @@
 # 👾 Ferdii - Cyber Security Enthusiast
 
-Welcome to my GitHub! I’m *AetherSkylar, a passionate cyber security enthusiast with expertise in *Kali Linux*, *Burp Suite*, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
+Welcome to my GitHub! I’m Ferdii, a passionate cyber security enthusiast with expertise in *Kali Linux*, *Burp Suite*, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
 
 ## 🔒 About Me
 - 🌐 Cyber security enthusiast focused on *Penetration Testing*, *Bug Hunting* and *Network Security*.
