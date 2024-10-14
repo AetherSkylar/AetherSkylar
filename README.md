@@ -1,11 +1,9 @@
 # 👾 Ferdii - Cyber Security Enthusiast
 
-![Profile Banner](Banner.png)
-
-Welcome to my GitHub! I’m *AetherSkylar, a passionate cyber security enthusiast with expertise in *Kali Linux*, **Burp Suite, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
+Welcome to my GitHub! I’m *AetherSkylar, a passionate cyber security enthusiast with expertise in *Kali Linux*, *Burp Suite*, and *Nmap*. I’m always exploring new tools and techniques to keep networks secure and to find vulnerabilities before they can be exploited.
 
 ## 🔒 About Me
-- 🌐 Cyber security enthusiast focused on *Penetration Testing* and *Network Security*.
+- 🌐 Cyber security enthusiast focused on *Penetration Testing*, *Bug Hunting* and *Network Security*.
 - 🛠 Skilled in *Kali Linux*, *Burp Suite*, and *Nmap*.
 - 📚 Constantly learning and keeping up-to-date with the latest security trends and techniques.
 - 👨‍💻 Currently exploring *Web Application Security* and *Network Vulnerability Assessments*.
@@ -37,8 +35,7 @@ A series of challenges and labs I built for learning and practicing *web applica
 - Step-by-step tutorials for using *Nmap* to uncover server misconfigurations.
 
 ## 📈 My GitHub Stats
-![AetherSkylar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AetherSkylar&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=AetherSkylar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AetherSkylar&show_icons=true&theme=radical) <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AetherSkylar&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSkylar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -46,7 +43,6 @@ A series of challenges and labs I built for learning and practicing *web applica
 Feel free to reach out if you want to collaborate on a project, discuss security, or just say hi!
 - 💼 [LinkedIn](https://linkedin.com/in/friederikferdinand)
 - 📧 friederikferdinand@gmail.com
-- 🌐 [My Blog](https://pixelpirate-blog.com) - Sharing my thoughts and tutorials on *cyber security*.
 
 ## ☕ Support Me
 If you like my work, consider buying me a coffee to keep me fueled while hunting bugs! [Buy Me a Coffee](https://www.buymeacoffee.com/pixelpirate)
