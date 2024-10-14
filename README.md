@@ -38,6 +38,9 @@ A series of challenges and labs I built for learning and practicing *web applica
 
 ## 📈 My GitHub Stats
 ![AetherSkylar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AetherSkylar&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=AetherSkylar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AetherSkylar&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AetherSkylar&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, discuss security, or just say hi!
